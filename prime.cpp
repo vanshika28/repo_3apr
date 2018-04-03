@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
   int n, i;
-  bool isPrime = true;
+  bool isPrimee = true;
 
   cout << "Enter a positive integer: ";
   cin >> n;
